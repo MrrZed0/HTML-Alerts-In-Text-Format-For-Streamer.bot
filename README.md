@@ -26,5 +26,7 @@ Create a browser source in obs-studio and select the index.html file to show a a
 5) Select imageText.txt And Enter In Write To File  %targetUserName%
 
 You Can Change ALERTS.png To Your Alert Image !
+Can Add Slide And Other Effects In OBS-Studio To Make It More Animated 
 
 
+![Test Image 1](https://github.com/MrrZed0/HTML-Alerts-In-Text-Format-For-Streamer.bot/blob/main/Untitled.jpg?raw=true)
